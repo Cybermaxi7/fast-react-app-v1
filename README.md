@@ -20,6 +20,9 @@ In this course, I had the opportunity to build the Fast Pizza App, a web applica
 
 This course was a valuable learning experience, offering a hands-on approach to building a real-world web application.
 
+## Enhanced Version
+Jonas added that we should add some more features to cement what we've just learnt and i decided to embark on it and i built all features which is all available in the version 2 of this project.
+
 ## Acknowledgment
 
 I extend my gratitude to Jonas Schmedtmann for creating this instructive course and enabling me to enhance my skills in web development.
